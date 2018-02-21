@@ -19,7 +19,7 @@
     },
     "repositories" : [
         {
-            "type": "github",
+            "type": "vcs",
             "url": "https://github.com/ikodev/sms-api-php"
         }
     ]
